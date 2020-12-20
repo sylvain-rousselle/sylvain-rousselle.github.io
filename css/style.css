@@ -932,6 +932,7 @@ main{
     max-width: 100%;
     display: flex;
     margin-left: 4vh;
+    z-index: 2;
 }
 .section4 .container .text{
     margin-left: 6em;
